@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import "./Video.css";
+import "../styles/Video.css";
 import { VideoFooter } from "./VideoFooter";
 import { VideoSidebar } from "./VideoSidebar";
 
